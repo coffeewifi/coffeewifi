@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @coffeewifi
-- 👀 I’m interested in coffee, product marketing, VisionPro, GenAI tools
+- 👀 I’m interested in coffee, product, VisionPro, AI, and marketing that makes sense to be there. 
 - 🌱 I’m currently learning LLMs and SQL. 
-- 💞️ I’m looking to collaborate on product marketing dev tools
+- 💞️ I’m enjoy collaborating with people building dev tools or other exciting tools that make boring work go away. 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/ioanaglitia/)
-- ⚡ Fun fact: used to review new Linux versions back in the early 2000s, for a local publication.  
+- ⚡ Fun fact: used to write reviews of new Linux versions back in the early 2000s. 
 
 <!---
 coffeewifi/coffeewifi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
